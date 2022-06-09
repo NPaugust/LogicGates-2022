@@ -5,5 +5,9 @@ like AND,OR,NOT,NAND,NOR,EXOR,EXNOR.
 
 by clicking particular gate box , app will open Truth Table of that specific gate , which helps in better learning of logic gate
 it requires internet connection to open truth tables
+# Menu
+![menu](https://user-images.githubusercontent.com/72886935/172780814-438bee30-f13a-414d-adb9-a77ce1e9fbb1.png)
+# Block
+![blocks](https://user-images.githubusercontent.com/72886935/172780835-1c1be4ad-28bd-492c-8ba3-95370135e360.png)
 
 # Made by Avgustin Chynarbekov
