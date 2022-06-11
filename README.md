@@ -10,4 +10,8 @@ it requires internet connection to open truth tables
 # Block
 ![blocks](https://user-images.githubusercontent.com/72886935/172780835-1c1be4ad-28bd-492c-8ba3-95370135e360.png)
 
+# Video review 
+![video](https://user-images.githubusercontent.com/72886935/173182030-7af16945-09b9-4ce7-a477-9c01b14a1fed.MOV)
+
+
 # Made by Avgustin Chynarbekov
